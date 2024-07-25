@@ -1,0 +1,597 @@
+[
+    {
+        "title": "VBA: Editing Power Query M-Code using VBA",
+        "link": "/questions/78792073/vba-editing-power-query-m-code-using-vba",
+        "summary": "\n                I have a shared Excel file with a Power Query that extracts data from an external local file. However, several users work with the shared file and they need the Power Query to access the local file ...\n            ",
+        "tags": [
+            "excel",
+            "vba",
+            "powerquery"
+        ],
+        "details_author": "\npbs\n",
+        "publication_time": "2024-07-25 07:54:31Z"
+    },
+    {
+        "title": "Google Analytics, no session_start event in user detail events",
+        "link": "/questions/78792071/google-analytics-no-session-start-event-in-user-detail-events",
+        "summary": "\n                I run a online shopping website, and I use GA to measure ROI of different traffic source, such as meta ads, google ads, etc.\nNow, I find some strange orders that should attribute to google ads, but ...\n            ",
+        "tags": [
+            "google-analytics",
+            "google-analytics-4",
+            "attribution"
+        ],
+        "details_author": "\nBread\n",
+        "publication_time": "2024-07-25 07:54:14Z"
+    },
+    {
+        "title": "How with laravel 10 factory make valid place lat, lng?",
+        "link": "/questions/78792070/how-with-laravel-10-factory-make-valid-place-lat-lng",
+        "summary": "\n                On laravel 10 site with factory I make a lot of points to show them on Leaflet map :\n        $city = $faker->city;\n        $lat = $faker->latitude;\n        $lng = $faker->longitude;\n\nBut ...\n            ",
+        "tags": [
+            "laravel",
+            "faker"
+        ],
+        "details_author": "\nPetro Gromovo\n",
+        "publication_time": "2024-07-25 07:54:11Z"
+    },
+    {
+        "title": "How to Dynamically Set Optional Properties in Multiple Request Models in ASP.NET Core Web Api",
+        "link": "/questions/78792067/how-to-dynamically-set-optional-properties-in-multiple-request-models-in-asp-net",
+        "summary": "\n                At my workplace, I\u2019ve been tasked with refactoring some code in an ASP.NET Core Web API application. In the application, I have multiple request models where some models include properties like UserId,...\n            ",
+        "tags": [
+            "c#",
+            "asp.net",
+            "asp.net-core",
+            "asp.net-web-api"
+        ],
+        "details_author": "\nMehdi Raji\n",
+        "publication_time": "2024-07-25 07:53:56Z"
+    },
+    {
+        "title": "Access token fetched from AWS Cognito oauth api endpoint is invalid when utilized by boto3",
+        "link": "/questions/78792064/access-token-fetched-from-aws-cognito-oauth-api-endpoint-is-invalid-when-utilize",
+        "summary": "\n                Having been confused by AWS Congito for weeks... Are there any difference between access tokens retrieved by /oauth2/token and boto3? If so, how can my backend use an access token passed from my ...\n            ",
+        "tags": [
+            "amazon-web-services",
+            "boto3",
+            "amazon-cognito"
+        ],
+        "details_author": "\nLightyears\n",
+        "publication_time": "2024-07-25 07:52:37Z"
+    },
+    {
+        "title": "I want to change default electron icon but not able to do that",
+        "link": "/questions/78792063/i-want-to-change-default-electron-icon-but-not-able-to-do-that",
+        "summary": "\n                Here is my package json file cdde.\n\"build\": {\n    \"linux\": {\n      \"target\": \"deb\",\n      \"category\": \"Office\",\n      \"icon\": &...\n            ",
+        "tags": [
+            "reactjs",
+            "electron",
+            "electron-builder"
+        ],
+        "details_author": "\nZech arslan\n",
+        "publication_time": "2024-07-25 07:51:40Z"
+    },
+    {
+        "title": "getch() replacement in C",
+        "link": "/questions/78792062/getch-replacement-in-c",
+        "summary": "\n                I want and searching for an alternative that could replace the getch() function of C language. I want help if any any function which can replace the getch() function from the code below or an ...\n            ",
+        "tags": [
+            "c",
+            "tic-tac-toe"
+        ],
+        "details_author": "\nvu nick\n",
+        "publication_time": "2024-07-25 07:51:34Z"
+    },
+    {
+        "title": "Problem when dealing with translated tables via JPA",
+        "link": "/questions/78792059/problem-when-dealing-with-translated-tables-via-jpa",
+        "summary": "\n                I have have a question about how should we work with db in JPA manner when dealing with translated tables.\nSo, let's assume that I have next entities:\nclass A {\n    @Id\n    @Column(name = \"id&...\n            ",
+        "tags": [
+            "java",
+            "spring-data-jpa"
+        ],
+        "details_author": "\nazizairo\n",
+        "publication_time": "2024-07-25 07:50:47Z"
+    },
+    {
+        "title": "Payment Session Expiration and Redirection Failure",
+        "link": "/questions/78792058/payment-session-expiration-and-redirection-failure",
+        "summary": "\n                Can anyone help me with this?\nI am experiencing an issue during the checkout process where the payment session URL expires within a few minutes, displaying the error message \"This link has ...\n            ",
+        "tags": [
+            "python",
+            "java",
+            "node.js",
+            "stripe-payments",
+            "payment-gateway"
+        ],
+        "details_author": "\nMihir Kanzariya\n",
+        "publication_time": "2024-07-25 07:50:38Z"
+    },
+    {
+        "title": "Angular component testing with Jest, Spectator and asynchronus operations",
+        "link": "/questions/78792056/angular-component-testing-with-jest-spectator-and-asynchronus-operations",
+        "summary": "\n                I was trying to figure it out by myself for last two days but I have no clue what I'm doing wrong. It has to be related somehow to asynchronus operations (probably selectors from ngrx) in my component,...\n            ",
+        "tags": [
+            "javascript",
+            "angular",
+            "unit-testing",
+            "jestjs",
+            "angular-spectator"
+        ],
+        "details_author": "\nD.Zet\n",
+        "publication_time": "2024-07-25 07:49:59Z"
+    },
+    {
+        "title": "Is there a way to summarize individual totals under one category?",
+        "link": "/questions/78792053/is-there-a-way-to-summarize-individual-totals-under-one-category",
+        "summary": "\n                SQL noob here. We have recently started using superset to visualize our business data.\nI am supposed to create an SQL query that determines the total hours of certain projects from two tables, totals ...\n            ",
+        "tags": [
+            "sql",
+            "sql-server",
+            "apache-superset"
+        ],
+        "details_author": "\nAlex Lautensch\u00fctz\n",
+        "publication_time": "2024-07-25 07:49:12Z"
+    },
+    {
+        "title": "Unexpected error while following video tutorial",
+        "link": "/questions/78792051/unexpected-error-while-following-video-tutorial",
+        "summary": "\n                I'm trying to reproduce the \"Build an expense tracker web app with Firebase\" case with Youtube videos.\nCode setting, done.\nAuthentication, done.\nCloud storage, done.\nThe issue arise with ...\n            ",
+        "tags": [
+            "google-cloud-firestore"
+        ],
+        "details_author": "\nAugusto Sanchez\n",
+        "publication_time": "2024-07-25 07:48:34Z"
+    },
+    {
+        "title": "Faulty display of IfcBooleanClippingResult",
+        "link": "/questions/78792047/faulty-display-of-ifcbooleanclippingresult",
+        "summary": "\n                I'm currently working on an IfcViewer application using Xbim, and HelixToolkit. So far i've had no problem with the display if IFC files, and objects. Recently I've introduced objects where the ...\n            ",
+        "tags": [
+            "helix-3d-toolkit",
+            "ifc",
+            "bim",
+            "xbim"
+        ],
+        "details_author": "\nGy\u00f6rgy M\u00fcller\n",
+        "publication_time": "2024-07-25 07:47:20Z"
+    },
+    {
+        "title": "Error 91 - DataBodyRange.Copy ignore null",
+        "link": "/questions/78792046/error-91-databodyrange-copy-ignore-null",
+        "summary": "\n                \"DB\" sheet contains 1 table with 3 Columns - Trade Date, ISIN, Trade ID. This is the output of a power query to pull data from the database (based on certain criteria) and display it here. \n&...\n            ",
+        "tags": [
+            "excel",
+            "vba"
+        ],
+        "details_author": "\nRaymond\n",
+        "publication_time": "2024-07-25 07:46:57Z"
+    },
+    {
+        "title": "How to minimize error in cpp when doing contineous operations on a variable , with small numbers",
+        "link": "/questions/78792044/how-to-minimize-error-in-cpp-when-doing-contineous-operations-on-a-variable-wi",
+        "summary": "\n                I have a global variable on which arithmetic operations are made, every time a function is called . The numbers used in the function are of the form a*exp(b), stored in double. I have a track of all ...\n            ",
+        "tags": [
+            "c++"
+        ],
+        "details_author": "\nram baddigam\n",
+        "publication_time": "2024-07-25 07:46:45Z"
+    },
+    {
+        "title": "Error Cannot resolve reference to bean 'mongoTemplate' while setting bean property 'mongoOperations' shows up only after deployed",
+        "link": "/questions/78792041/error-cannot-resolve-reference-to-bean-mongotemplate-while-setting-bean-proper",
+        "summary": "\n                Had the nested error pop up in my springboot application only after deployed on Heroku. Worked as intended when running on localhost. Database connection is fine and all the env variables are set ...\n            ",
+        "tags": [
+            "java",
+            "mongodb",
+            "spring-boot",
+            "heroku"
+        ],
+        "details_author": "\nCherlesmd\n",
+        "publication_time": "2024-07-25 07:46:08Z"
+    },
+    {
+        "title": "Prevent system shutdown while task scheduler task is running",
+        "link": "/questions/78792039/prevent-system-shutdown-while-task-scheduler-task-is-running",
+        "summary": "\n                How can I create a task in Windows task scheduler that prevents (automatic) system reboots while it is running? I want the task to finish before any restarts are performed.\nNote: I'm aware that one ...\n            ",
+        "tags": [
+            "powershell",
+            "scheduled-tasks"
+        ],
+        "details_author": "\nD.R.\n",
+        "publication_time": "2024-07-25 07:45:39Z"
+    },
+    {
+        "title": "Static files not served correctly all the time in development environment",
+        "link": "/questions/78792038/static-files-not-served-correctly-all-the-time-in-development-environment",
+        "summary": "\n                I have a Flask Python web app and I'm using Visual Studio 2022 Community edition for my development needs. I have set FLASK_ENV=development inside my .flaskenv file and I run the web app by right-...\n            ",
+        "tags": [
+            "python",
+            "visual-studio",
+            "flask"
+        ],
+        "details_author": "\nrikitikitik\n",
+        "publication_time": "2024-07-25 07:45:17Z"
+    },
+    {
+        "title": "NoModule Found error while deploying streamlit app",
+        "link": "/questions/78792036/nomodule-found-error-while-deploying-streamlit-app",
+        "summary": "\n                My codeloanpred_frontend.py  which consist of the App which I am trying to Build , apart from pakages I have used config file and the data_handling files  \r\nrequirements.txt \n#Model -Building ...\n            ",
+        "tags": [
+            "python",
+            "streamlit",
+            "modularity"
+        ],
+        "details_author": "\nAyush Kumar Srivastava 0223-19\n",
+        "publication_time": "2024-07-25 07:44:57Z"
+    },
+    {
+        "title": "Remove XML node based on the difference in days comparison",
+        "link": "/questions/78792031/remove-xml-node-based-on-the-difference-in-days-comparison",
+        "summary": "\n                Requirement is to compare the dates, if the difference more than the specified days we need to discard the particular XML node for further processing. I have written groovy scripts for the same to use ...\n            ",
+        "tags": [
+            "groovy"
+        ],
+        "details_author": "\nPavan Kumar\n",
+        "publication_time": "2024-07-25 07:43:19Z"
+    },
+    {
+        "title": "Failed opening 'db.php' for inclusion error when executed from root directory",
+        "link": "/questions/78792028/failed-opening-db-php-for-inclusion-error-when-executed-from-root-directory",
+        "summary": "\n                I am trying to run a PHP script (xyz.php) that is stored in /var/www/html from the command line by using the command:\nsudo php /var/www/html/xyz.php\n\nThis script has an include statement in it:\n ...\n            ",
+        "tags": [
+            "php",
+            "amazon-ec2"
+        ],
+        "details_author": "\ncoderatlarge\n",
+        "publication_time": "2024-07-25 07:42:56Z"
+    },
+    {
+        "title": "Error when using diagnose function from glmmTMB",
+        "link": "/questions/78792027/error-when-using-diagnose-function-from-glmmtmb",
+        "summary": "\n                I'm using glmmTMB (version 1.1.9) to run a step selection analysis with the two-step approach suggested by Muff et al. 2020 (fitting a Poisson model specifying a stratum-specific fixed intercept) ...\n            ",
+        "tags": [
+            "r",
+            "random-effects",
+            "glmmtmb"
+        ],
+        "details_author": "\nBenedikt Gehr\n",
+        "publication_time": "2024-07-25 07:42:51Z"
+    },
+    {
+        "title": "Export subpath for a react-native library",
+        "link": "/questions/78792022/export-subpath-for-a-react-native-library",
+        "summary": "\n                i m trying to create a react-native library which export some components and utilities. I'd like to be able to import my code like this :\nimport { RandomComponent } from 'mylibrary';\nimport { ...\n            ",
+        "tags": [
+            "typescript",
+            "react-native",
+            "package.json"
+        ],
+        "details_author": "\nMirecos\n",
+        "publication_time": "2024-07-25 07:42:26Z"
+    },
+    {
+        "title": "facing invalid credentials error while implementing oauth2login authentication using microservice architecture through API gateway",
+        "link": "/questions/78792021/facing-invalid-credentials-error-while-implementing-oauth2login-authentication-u",
+        "summary": "\n                I have two services i.e. API-gateway which is running on port 6051 and auth-service which is running on 6052 port. I have added dependency and configuration in auth-service and sets redirect url which ...\n            ",
+        "tags": [
+            "spring-boot",
+            "spring-security",
+            "oauth-2.0",
+            "google-oauth",
+            "spring-security-oauth2"
+        ],
+        "details_author": "\nAkshay Deshmukh\n",
+        "publication_time": "2024-07-25 07:42:25Z"
+    },
+    {
+        "title": "Intercept outgoing NodeJS https request calls in a application and fetch the request body | Replace original request with modified request",
+        "link": "/questions/78792018/intercept-outgoing-nodejs-https-request-calls-in-a-application-and-fetch-the-req",
+        "summary": "\n                My application uses NodeJS https request (https://nodejs.org/api/https.html) to make outgoing calls.\nI need to intercept it and first fetch the request body. Once the request is fetched, I'm preparing ...\n            ",
+        "tags": [
+            "node.js",
+            "https",
+            "request",
+            "interceptor",
+            "intercept"
+        ],
+        "details_author": "\nsathish soundarapandian\n",
+        "publication_time": "2024-07-25 07:41:07Z"
+    },
+    {
+        "title": "How to extract a query into a structure with joins using sqlx::FromRow",
+        "link": "/questions/78792017/how-to-extract-a-query-into-a-structure-with-joins-using-sqlxfromrow",
+        "summary": "\n                I'm already very confused about how to properly deploy this.\nEverything I tried causes the FromRow macro to fail.\nmaybe I need to implement the FromRow implementation myself or this can still be done ...\n            ",
+        "tags": [
+            "postgresql",
+            "rust",
+            "rust-sqlx"
+        ],
+        "details_author": "\nGenius Merely\n",
+        "publication_time": "2024-07-25 07:40:47Z"
+    },
+    {
+        "title": "My python tagui code is working erratically after chrome browser update. What is the fix for the problem",
+        "link": "/questions/78792013/my-python-tagui-code-is-working-erratically-after-chrome-browser-update-what-is",
+        "summary": "\n                I have written a python tagui script to manipulate intranet webpages in chrome. It was running fine. But after the chrome browser was updated,the script stops randomly each time at some point and no ...\n            ",
+        "tags": [
+            "python",
+            "google-chrome",
+            "rpa"
+        ],
+        "details_author": "\nVenkateshwar B\n",
+        "publication_time": "2024-07-25 07:39:43Z"
+    },
+    {
+        "title": "Wordpress Customizr - Post images cropped on first load",
+        "link": "/questions/78792010/wordpress-customizr-post-images-cropped-on-first-load",
+        "summary": "\n                I am running a wordpress site with Customizr theme.\nWhen I view a post page, the image gets displayed in cropped mode on the first load - and correctly on reload.\nSee examples here when you click on ...\n            ",
+        "tags": [
+            "wordpress"
+        ],
+        "details_author": "\nEric Sommer\n",
+        "publication_time": "2024-07-25 07:39:39Z"
+    },
+    {
+        "title": "OpenAI Error: 403 Country, region, or territory not supported [Python]",
+        "link": "/questions/78792008/openai-error-403-country-region-or-territory-not-supported-python",
+        "summary": "\n                I have tried to run openai API in python with this code:\nclient = OpenAI(api_key='sk-...')\r\ndef response(question):\n    response = client.chat.completions.create(\n      model=\"gpt-4-turbo-preview&...\n            ",
+        "tags": [
+            "python",
+            "openai-api"
+        ],
+        "details_author": "\npanda\n",
+        "publication_time": "2024-07-25 07:37:59Z"
+    },
+    {
+        "title": "ci pipeline building an artifact for a function app contains no functions",
+        "link": "/questions/78792005/ci-pipeline-building-an-artifact-for-a-function-app-contains-no-functions",
+        "summary": "\n                I have a function app, I want to deploy functions into that function app\nI made a CI and a CD pipeline in azure devops, all of it results in no functions in the function app\nthis is what my CI yaml ...\n            ",
+        "tags": [
+            "azure",
+            "azure-functions",
+            "azure-pipelines",
+            "cicd"
+        ],
+        "details_author": "\nnevermonday\n",
+        "publication_time": "2024-07-25 07:36:35Z"
+    },
+    {
+        "title": "max-old-space-size not working while executing webpack command to build bundle",
+        "link": "/questions/78792003/max-old-space-size-not-working-while-executing-webpack-command-to-build-bundle",
+        "summary": "\n                i have been getting javascript heap out of memory error while running webpack command to build my project\ni have tried to put 4GB memory allocation to node for executing webpack\nthis is the ...\n            ",
+        "tags": [
+            "javascript",
+            "node.js",
+            "webpack"
+        ],
+        "details_author": "\nVikram\n",
+        "publication_time": "2024-07-25 07:34:54Z"
+    },
+    {
+        "title": "query with arrayformula and weekday gives an value error",
+        "link": "/questions/78792002/query-with-arrayformula-and-weekday-gives-an-value-error",
+        "summary": "\n                I have a Google sheet with 4 columns.\nColumn A contains a date, columns B and D contain a value.\nI would like to display the top 3 values from the quotient column B / column D with the help of a query....\n            ",
+        "tags": [
+            "google-sheets"
+        ],
+        "details_author": "\nMario\n",
+        "publication_time": "2024-07-25 07:34:30Z"
+    },
+    {
+        "title": "I have a data frame with family IDs, and each line shows the course they consumed at a time, I want to know how to measure how many and which courses",
+        "link": "/questions/78792001/i-have-a-data-frame-with-family-ids-and-each-line-shows-the-course-they-consume",
+        "summary": "\n                So, I have a data frame, with the courses listed, IT, private classes, arts, sports and tutoring. Each line has the family id and the course it consumes and other variables about the family. If this ...\n            ",
+        "tags": [
+            "performance",
+            "probability",
+            "survey",
+            "measure",
+            "weighted"
+        ],
+        "details_author": "\nLucas Dos Santos Jambeiro\n",
+        "publication_time": "2024-07-25 07:34:13Z"
+    },
+    {
+        "title": "How can i clear a QTableView with a QPushButton",
+        "link": "/questions/78791997/how-can-i-clear-a-qtableview-with-a-qpushbutton",
+        "summary": "\n                I have an app which allows me to find files containing a certain phrase.\nWhen i click on the submit Button the content of the QTableView should disappear and i fill the Table in a function.\nCode: gui....\n            ",
+        "tags": [
+            "c++",
+            "qt",
+            "visual-studio-2022",
+            "qtableview",
+            "qpushbutton"
+        ],
+        "details_author": "\nmallocFreestyle\n",
+        "publication_time": "2024-07-25 07:33:27Z"
+    },
+    {
+        "title": "What is considered an illegal character in a string and how do I find this error?",
+        "link": "/questions/78791994/what-is-considered-an-illegal-character-in-a-string-and-how-do-i-find-this-error",
+        "summary": "\n                I have this Vue view to display jobs. There are 3 tabs showing jobs:\nMy Jobs\nJobs Applied\nAll jobs\nWhen I click on the apply button on all jobs then the Apply to Job window shows and I can enter ...\n            ",
+        "tags": [
+            "javascript",
+            "vue.js",
+            "svg",
+            "vuejs3"
+        ],
+        "details_author": "\ncrawlingdev\n",
+        "publication_time": "2024-07-25 07:32:57Z"
+    },
+    {
+        "title": "Cannot connect to chrome at 127.0.0.1:53233, This version of ChromeDriver only supports Chrome version 114. Current browser version is 127.0.6533.72",
+        "link": "/questions/78791988/cannot-connect-to-chrome-at-127-0-0-153233-this-version-of-chromedriver-only-s",
+        "summary": "\n                driver code:\nfrom selenium.webdriver.common.by import By\nfrom selenium.webdriver.chrome.service import Service\nfrom selenium.webdriver.support.ui import WebDriverWait\nfrom selenium.webdriver.support ...\n            ",
+        "tags": [
+            "python",
+            "docker",
+            "selenium-webdriver",
+            "undetected-chromedriver"
+        ],
+        "details_author": "\nHikmet23\n",
+        "publication_time": "2024-07-25 07:31:50Z"
+    },
+    {
+        "title": "Is there a Opensource way to compliance audit Microsoft 365 Apps",
+        "link": "/questions/78791985/is-there-a-opensource-way-to-compliance-audit-microsoft-365-apps",
+        "summary": "\n                I am looking for ways to value add to existing Office 365 Security & Compliance center which is available by default. Adding HIPPA compliant check but I don't wanna pay for the templates available ...\n            ",
+        "tags": [
+            "security",
+            "microsoft-graph-api",
+            "elastic-stack",
+            "open-source",
+            "microsoft365"
+        ],
+        "details_author": "\nuser598526\n",
+        "publication_time": "2024-07-25 07:31:02Z"
+    },
+    {
+        "title": "N+1 issue when listing attachement and variants(has_many_attached)",
+        "link": "/questions/78791982/n1-issue-when-listing-attachement-and-variantshas-many-attached",
+        "summary": "\n                N+1 query issue is coming at the time of fetching variant.\nModel:\n# Yoyaku Shouhin model\n\nclass YoyakuShouhin < ApplicationRecord\nhas_many_attached :shouhin_images do |attachable|\nattachable....\n            ",
+        "tags": [
+            "ruby-on-rails-7"
+        ],
+        "details_author": "\nAniruddha Mirajkar\n",
+        "publication_time": "2024-07-25 07:30:22Z"
+    },
+    {
+        "title": "Combining two code pages in one program in C",
+        "link": "/questions/78791981/combining-two-code-pages-in-one-program-in-c",
+        "summary": "\n                I am making a program that reads from a file that has characters from two different alphabets (Cyrillic and German). However, when printed to the terminal, \u00f6, \u00e4 and \u00fc come out as ?.\nSo far, I have ...\n            ",
+        "tags": [
+            "c"
+        ],
+        "details_author": "\nefendi\n",
+        "publication_time": "2024-07-25 07:30:11Z"
+    },
+    {
+        "title": "Calculated ATR Levels in Script Are Different On Chart and Alert on the Same Script",
+        "link": "/questions/78791976/calculated-atr-levels-in-script-are-different-on-chart-and-alert-on-the-same-scr",
+        "summary": "\n                I'm writing a custom indicator script extending the \"LuxAlgo - Predictive Ranges\" indicator. However, I've noticed a strange thing.\nIf I plot the indicator on a 5-min chart (I'm using \"...\n            ",
+        "tags": [
+            "pine-script",
+            "pine-script-v5"
+        ],
+        "details_author": "\nAgent007\n",
+        "publication_time": "2024-07-25 07:29:24Z"
+    },
+    {
+        "title": "Shortcut to go back to previous file in IntelliJ",
+        "link": "/questions/78791974/shortcut-to-go-back-to-previous-file-in-intellij",
+        "summary": "\n                I cannot find a shortcut which brings me to the previous file I was in. I know of this, however, this is too fine grained. It always jumps to the previous cursor location. If I have movied the cursor ...\n            ",
+        "tags": [
+            "intellij-idea"
+        ],
+        "details_author": "\nfour-eyes\n",
+        "publication_time": "2024-07-25 07:29:06Z"
+    },
+    {
+        "title": "Why can i access an API on SOAP-UI, Browser but not in postman?",
+        "link": "/questions/78791967/why-can-i-access-an-api-on-soap-ui-browser-but-not-in-postman",
+        "summary": "\n                I'm accessing the same API from Postman, soapui and brower. The only thing i'm passing as header is the auth code and i've ensured there is no mismatch in the auth code.\nI can see the result correctly ...\n            ",
+        "tags": [
+            "api",
+            "postman",
+            "soapui"
+        ],
+        "details_author": "\njeremy\n",
+        "publication_time": "2024-07-25 07:27:34Z"
+    },
+    {
+        "title": "Shopify Customer Login via NextJS",
+        "link": "/questions/78791966/shopify-customer-login-via-nextjs",
+        "summary": "\n                I want to create a login form in NextJS14 and when the customer enter their details, I want them to login to the shopify customer account section. To do that I used Shopify Sign In with Email and ...\n            ",
+        "tags": [
+            "next.js",
+            "shopify",
+            "shopify-storefront-api"
+        ],
+        "details_author": "\nAmila Deshan\n",
+        "publication_time": "2024-07-25 07:27:18Z"
+    },
+    {
+        "title": "Learning to write an HTTP 1.1 server, why does my server pause & surge with a high number of requests?",
+        "link": "/questions/78791965/learning-to-write-an-http-1-1-server-why-does-my-server-pause-surge-with-a-hi",
+        "summary": "\n                As a learning exercise, I am writing an HTTP server and trying to implement the HTTP 1.1 protocol myself.\nWhen I run benchmarks that have a high number of concurrent requests that reuse their socket, ...\n            ",
+        "tags": [
+            "http",
+            "rust"
+        ],
+        "details_author": "\nDavid Alsh\n",
+        "publication_time": "2024-07-25 07:27:07Z"
+    },
+    {
+        "title": "how to convert timedelta to intereger in pandas dataframe",
+        "link": "/questions/78791962/how-to-convert-timedelta-to-intereger-in-pandas-dataframe",
+        "summary": "\n                I am trying to convert timedelta to integer. but i am getting the error. I dont know how to solve this. does anyone knows.\ntime = (pd.to_datetime(each_date2)-pd.to_datetime(each_date1))\npd.to_numeric(...\n            ",
+        "tags": [
+            "python",
+            "pandas",
+            "timedelta"
+        ],
+        "details_author": "\nmona\n",
+        "publication_time": "2024-07-25 07:25:52Z"
+    },
+    {
+        "title": "Having trouble running cmake",
+        "link": "/questions/78791961/having-trouble-running-cmake",
+        "summary": "\n                I can't correctly run cmake .. on my computer.\nwhile running the command cmake .., some errors occurred:\n-- The CUDA compiler identification is unknown\n-- Check for working CUDA compiler: /usr/bin/...\n            ",
+        "tags": [
+            "cmake",
+            "gpu"
+        ],
+        "details_author": "\nzhengry22\n",
+        "publication_time": "2024-07-25 07:25:13Z"
+    },
+    {
+        "title": "How to corroct get notification permission in Objc?",
+        "link": "/questions/78791941/how-to-corroct-get-notification-permission-in-objc",
+        "summary": "\n                I have a way to get push permissions.\nBut what I get every time is not the correct value.\nHow can I rewrite this method?\nMy push permission has been enabled, but it still prints out 555 first and then ...\n            ",
+        "tags": [
+            "ios",
+            "objective-c",
+            "push-notification"
+        ],
+        "details_author": "\nBeginnerrrrrr\n",
+        "publication_time": "2024-07-25 07:21:21Z"
+    },
+    {
+        "title": "Can I create a query on people attending workshops with a many to many relationship showing a matrix of how many workshops in common?",
+        "link": "/questions/78791940/can-i-create-a-query-on-people-attending-workshops-with-a-many-to-many-relations",
+        "summary": "\n                I'm using MS Access 2016\nI have a visitor table, a workshop table and a linking attending table.\nI would like to query this and get a matrix of numbers showing each one in relation to each other in a ...\n            ",
+        "tags": [
+            "vba",
+            "ms-access",
+            "pivot-table"
+        ],
+        "details_author": "\nVickie Mac\n",
+        "publication_time": "2024-07-25 07:21:13Z"
+    },
+    {
+        "title": "Elastic Load Balancer Managing Requests Sequentially Instead of Concurrently - Configuration Issues?",
+        "link": "/questions/78791939/elastic-load-balancer-managing-requests-sequentially-instead-of-concurrently-c",
+        "summary": "\n                I am deploying a Flask application using Gunicorn with Flask-SocketIO on AWS Elastic Beanstalk. I\u2019m experiencing issues where my Elastic Load Balancer (ELB) seems to handle incoming requests ...\n            ",
+        "tags": [
+            "amazon-web-services",
+            "flask",
+            "amazon-elastic-beanstalk",
+            "aws-application-load-balancer",
+            "flask-socketio"
+        ],
+        "details_author": "\nMaverick\n",
+        "publication_time": "2024-07-25 07:20:59Z"
+    },
+    {
+        "title": "Style noUiSlider focus outline with tailwind",
+        "link": "/questions/78791932/style-nouislider-focus-outline-with-tailwind",
+        "summary": "\n                I'm using noUiSlider and tailwind and was able to style it in tailwind's input.css:\n@layer components {\n    .noUi-tooltip {\n       @apply border-none outline-none\n    }\n}\n\nHowever, the tailwind class ...\n            ",
+        "tags": [
+            "tailwind-css",
+            "nouislider"
+        ],
+        "details_author": "\nUrs Marti\n",
+        "publication_time": "2024-07-25 07:19:00Z"
+    }
+]
